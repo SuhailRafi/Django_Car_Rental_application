@@ -1,1 +1,1 @@
-# Django_Car_Rental_pplication
+# Django_Car_Rental_Application
